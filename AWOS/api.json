@@ -1,0 +1,37 @@
+[{
+        "precio": 456,
+        "id": 1,
+        "title": "Café",
+        "thumbnailUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 234,
+        "id": 2,
+        "title": "Macbook",
+        "thumbnailUrl": "https://picsum.photos/id/1/600"
+    },
+    {
+        "precio": 489,
+        "id": 3,
+        "title": "iMac",
+        "thumbnailUrl": "https://picsum.photos/id/2/600"
+    },
+    {
+        "precio": 567,
+        "id": 4,
+        "title": "iPad",
+        "thumbnailUrl": "https://picsum.photos/id/3/600"
+    },
+    {
+        "precio": 630,
+        "id": 5,
+        "title": "Maruchan",
+        "thumbnailUrl": "https://picsum.photos/id/3/600"
+    },
+    {
+        "precio": 30,
+        "id": 6,
+        "title": "Huevos",
+        "thumbnailUrl": "https://picsum.photos/id/3/600"
+    }
+]
